@@ -1,0 +1,6 @@
+c:\users\beran\documents\visual studio 2015\Projects\HesapMakinesi\HesapMakinesi\bin\Debug\HesapMakinesi.exe.config
+c:\users\beran\documents\visual studio 2015\Projects\HesapMakinesi\HesapMakinesi\bin\Debug\HesapMakinesi.exe
+c:\users\beran\documents\visual studio 2015\Projects\HesapMakinesi\HesapMakinesi\bin\Debug\HesapMakinesi.pdb
+c:\users\beran\documents\visual studio 2015\Projects\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csprojResolveAssemblyReference.cache
+c:\users\beran\documents\visual studio 2015\Projects\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.exe
+c:\users\beran\documents\visual studio 2015\Projects\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.pdb
